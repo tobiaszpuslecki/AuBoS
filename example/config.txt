@@ -1,0 +1,7 @@
+1path=/Users/tobing/Desktop/AuBoS
+2name=test.cpp
+3compile=g++
+4compile_param=-o
+5in=input.txt
+6out=out.txt
+7correct=true.txt
